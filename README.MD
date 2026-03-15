@@ -1,16 +1,14 @@
-# 👋 Olá, eu sou Henderson
 ![Banner do perfil](Banner.png)
 
-# 👋 Olá, eu sou Henderson
+# Olá, eu sou Henderson
 
 🎓 Estudante de Ciência da Computação  
 💻 Aprendendo Java, POO e desenvolvimento de software
-🎓 Estudante de Ciência da Computação  
-💻 Aprendendo Java, POO e desenvolvimento de software  
+
 
 ---
 
-## 🚀 Tecnologias que estou estudando
+## Tecnologias que estou estudando
 
 - Java
 - SQL / MySQL
